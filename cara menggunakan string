@@ -1,0 +1,2 @@
+z = 'Hai, nama saya Bayu'
+print(z)
